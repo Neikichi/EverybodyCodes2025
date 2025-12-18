@@ -16,7 +16,7 @@ This project is part of my journey to learn modern C++ coming from **42 School K
 
 | Day | Part 1 | Part 2 | Part 3 |
 |-----|--------|--------|--------|
-| Quest01 | ⭐ | ⭐ | ⭐ |
+| [Quest01](Quest01) | ⭐ | ⭐ | ⭐ |
 | [Day 02](Day02) | ⭐ | ⭐ |
 | [Day 03](Day03) | ⭐ | ⭐ |
 | [Day 04](Day04) | ⭐ | ⭐ |

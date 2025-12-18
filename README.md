@@ -16,18 +16,26 @@ This project is part of my journey to learn modern C++ coming from **42 School K
 
 | Day | Part 1 | Part 2 | Part 3 |
 |-----|--------|--------|--------|
-| [Quest01](Quest01) | ⭐ | ⭐ | ⭐ |
-| [Day 02](Day02) | ⭐ | ⭐ |
-| [Day 03](Day03) | ⭐ | ⭐ |
-| [Day 04](Day04) | ⭐ | ⭐ |
-| [Day 05](Day05) | ⭐ | ⭐ |
-| [Day 06](Day06) | ⭐ | ⭐ |
-| [Day 07](Day07) | ⭐ | ⭐ |
-| [Day 08](Day08) | ⭐ | ⭐ |
-| [Day 09](Day09) | ⭐ | ⭐ |
-| [Day 10](Day10) | ⭐ | ⭐ |
-| [Day 11](Day11) | ⭐ | ⭐ |
-| [Day 12](Day12) | ⭐ | ⭐ |
+| [Quest 01](quest-01) | ⭐ | ⭐ | ⭐ |
+| [Quest 02](quest-02) | ⭐ | ⭐ | ⭐ |
+| [Quest 03](quest-03) | ⭐ | ⭐ | ⭐ |
+| [Quest 04](quest-04) | ⭐ | ⭐ | ⭐ |
+| [Quest 05](quest-05) | ⭐ | ⭐ | ⭐ |
+| [Quest 06](quest-06) | ⭐ | ⭐ | ⭐ |
+| [Quest 07](quest-07) | ⭐ | ⭐ | ⭐ |
+| [Quest 08](quest-08) | ⭐ | ⭐ | ⭐ |
+| [Quest 09](quest-09) | ⭐ | ⭐ | ⭐ |
+| [Quest 10](quest-10) | ⭐ | ⭐ | ⭐ |
+| [Quest 11](quest-11) | ⭐ | ⭐ | ⭐ |
+| [Quest 12](quest-12) | ⭐ | ⭐ | ⭐ |
+| [Quest 13](quest-13) | ⭐ | ⭐ | ⭐ |
+| [Quest 14](quest-14) | ⭐ | ⭐ | ⭐ |
+| [Quest 15](quest-15) | ⭐ | ⭐ | ⭐ |
+| [Quest 16](quest-16) | ⭐ | ⭐ | ⭐ |
+| [Quest 17](quest-17) | ⭐ | ⭐ | ⭐ |
+| [Quest 18](quest-18) | ⭐ | ⭐ | ⭐ |
+| [Quest 19](quest-19) | ⭐ | ⭐ | ⭐ |
+| [Quest 20](quest-20) | ⭐ | ⭐ | ⭐ |
 
 ## 
 

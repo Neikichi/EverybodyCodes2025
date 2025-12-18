@@ -1,4 +1,4 @@
-# 🎄 Advent of Code 2025
+# 🦆 Everybody Codes 2025
 
 My solutions for [EverybodyCodes 2025](https://everybody.codes/event/2025/quests) implemented in **C++20/23**.
 
